@@ -2,7 +2,9 @@
 
 Official dataset and code for **"Pathologist Attention–Aligned Report Generation for Prostate Histopathology"** (MICCAI 2026).
 
-> The code is coming soon. The keyword attention heatmap dataset is available now (see [Download](#download)).
+> **Data requests:** for scanpath and other data beyond what is released here, please email **ruoxue@cs.stonybrook.edu**.
+>
+> The code and dataset are coming soon.
 
 ## Keyword Attention Heatmap Dataset
 
@@ -18,7 +20,7 @@ Pathologists reviewed digitized H&E diagnostic slides from TCGA-PRAD. The datase
 
 ### Download
 
-Download the dataset from **[Google Drive](https://drive.google.com/drive/folders/1JMfJ8f1v5H6P313h5RTt3g2iQZIb2hza?usp=sharing)** (`keyword_heatmaps_64x`, ~65 MB).
+The download link will be added here once the dataset is released.
 
 The original whole-slide images (`.svs`) are not included. They can be downloaded from the [NCI Genomic Data Commons](https://portal.gdc.cancer.gov/) (project **TCGA-PRAD**), using the slide ID as the folder name (for example `TCGA-2A-A8VL-01Z-00-DX1`).
 
@@ -128,11 +130,11 @@ plt.show()
 If you use this dataset, please cite:
 
 ```bibtex
-@inproceedings{TODO,
-  title     = {Pathologist Attention--Aligned Report Generation for Prostate Histopathology},
-  author    = {TODO},
-  booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
-  year      = {2026}
+@article{xue2026pathologist,
+  title={Pathologist Attention-Aligned Report Generation for Prostate Histopathology},
+  author={Xue, Ruoyu and Singh, Suryakant and Chakraborty, Souradeep and Marza, Pierre and Yaskiv, Oksana and Friedman, Constantin and Sheuka, Natallia and Friedman, Paul and Ramlal, Bharat and Knudsen, Beatrice and others},
+  journal={arXiv preprint arXiv:2607.19624},
+  year={2026}
 }
 ```
 
