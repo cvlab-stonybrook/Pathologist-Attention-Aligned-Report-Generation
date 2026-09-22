@@ -2,9 +2,8 @@
 
 Official dataset and code for **"Pathologist Attention–Aligned Report Generation for Prostate Histopathology"** (MICCAI 2026).
 
-> **Data requests:** for scanpath and other data beyond what is released here, please email **ruoxue@cs.stonybrook.edu**.
->
-> The code and dataset are coming soon.
+> **Data requests:** Please see the heatmap link below. For scanpath and other data beyond what is released here, please email **ruoxue@cs.stonybrook.edu**.
+
 
 ## Keyword Attention Heatmap Dataset
 
