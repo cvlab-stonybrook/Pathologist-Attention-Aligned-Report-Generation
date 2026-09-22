@@ -20,7 +20,7 @@ Pathologists reviewed digitized H&E diagnostic slides from TCGA-PRAD. The datase
 
 ### Download
 
-The download link will be added here once the dataset is released.
+[The download link is here. ](https://drive.google.com/drive/folders/1JMfJ8f1v5H6P313h5RTt3g2iQZIb2hza?usp=sharing)
 
 The original whole-slide images (`.svs`) are not included. They can be downloaded from the [NCI Genomic Data Commons](https://portal.gdc.cancer.gov/) (project **TCGA-PRAD**), using the slide ID as the folder name (for example `TCGA-2A-A8VL-01Z-00-DX1`).
 
